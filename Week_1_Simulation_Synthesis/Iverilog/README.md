@@ -3,6 +3,7 @@
 ## Simulation Results
 ## Commands To Run
  Compile and simulate
+
  
  iverilog -o sim testbench.v simple_alu.v
 
