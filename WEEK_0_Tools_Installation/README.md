@@ -6,11 +6,9 @@ This document lists the open-source EDA tools installed during Week 0 of the VLS
 
 ## 🔧 Tools Installed
 
-
-
 **Install Command:**
 ✅ 1. Yosys – RTL Synthesis Tool
-*Install Command**
+
 
 ```bash
 sudo apt-get install yosys
