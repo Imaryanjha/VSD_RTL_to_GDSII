@@ -1,13 +1,23 @@
-This repository contains the weekly learning of RTL-to-GDSII implementation flow of a RISC-V-based SoC design used in the reference tapeout program conducted in collaboration with:
+# 🚀 VSD RISC-V Reference SoC Design: RTL-to-GDSII Flow
 
-1.VLSI System Design (VSD) Corp
-2.IIT Gandhinagar
-3.Synopsys
-4. SCL Mohali
+This repository documents my weekly learning journey through the **RTL-to-GDSII implementation flow** of a RISC-V-based System-on-Chip (SoC) design, conducted as part of the reference tapeout program in collaboration with:
 
-Tool	Purpose	Verification
-🧠 Yosys	RTL Synthesis & Logic Optimization	                ✅ Verified
-📟 Iverilog	Verilog Simulation & Compilation	                ✅ Verified
-📊 GTKWave	Waveform Viewer & Analysis	                      ✅ Verified
-⚡ Ngspice	Analog & Mixed-Signal Simulation	                ✅ Verified
-🎨 Magic VLSI	Layout Design & DRC Verification	              ✅ Verified
+## 🤝 Collaborating Organizations
+- **🏢 VLSI System Design (VSD) Corp**
+- **🎓 IIT Gandhinagar** 
+- **⚡ Synopsys**
+- **🔬 SCL Mohali**
+
+## 🛠️ Toolchain & Verification Status
+
+| Tool | Purpose | Status |
+|------|---------|--------|
+| 🧠 **Yosys** | RTL Synthesis & Logic Optimization | ✅ Verified |
+| 📟 **Iverilog** | Verilog Simulation & Compilation | ✅ Verified |
+| 📊 **GTKWave** | Waveform Viewer & Analysis | ✅ Verified |
+| ⚡ **Ngspice** | Analog & Mixed-Signal Simulation | ✅ Verified |
+| 🎨 **Magic** | VLSI Layout Design & DRC Verification | ✅ Verified |
+
+---
+
+
