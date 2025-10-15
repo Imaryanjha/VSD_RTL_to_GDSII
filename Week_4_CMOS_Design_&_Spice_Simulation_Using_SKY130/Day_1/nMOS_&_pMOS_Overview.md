@@ -4,6 +4,23 @@
 In VLSI design, **NMOS** and **PMOS** transistors act as switches that control current flow between **drain (D)** and **source (S)** terminals using **gate voltage (Vgs)**.
 
 ---
+##  NMOS Operating Regions
+**a).Accumulation**
+
+ <img width="2474" height="876" alt="image" src="https://github.com/user-attachments/assets/cb73defc-86ed-4c4b-bb0a-01cef3bb2073" />
+
+
+**b).Depletion**
+
+
+<img width="2731" height="895" alt="image" src="https://github.com/user-attachments/assets/7dce7b7b-231c-4461-a59e-5283533caebf" />
+
+
+**b).Strong Inversion & Threshold Voltage**
+
+
+<img width="2476" height="863" alt="image" src="https://github.com/user-attachments/assets/d4c161f5-4a83-4293-9921-fc24bdb2bc68" />
+
 
 ##  2️⃣ NMOS Characteristics
 
