@@ -28,10 +28,10 @@ When creating **standard cells**, SPICE is used to:
 
 <img width="2400" height="689" alt="image" src="https://github.com/user-attachments/assets/69717815-dd96-4424-b213-cba2092e9516" />
 
-**This Table comes from via SPICE**
+**This Table comes  via SPICE**
 
 
-## 🧾 5️⃣ Example: CMOS Inverter in SPICE
+## Example: CMOS Inverter in SPICE
 
 ```spice
 M1 out in vdd vdd PMOS W=2u L=0.18u
