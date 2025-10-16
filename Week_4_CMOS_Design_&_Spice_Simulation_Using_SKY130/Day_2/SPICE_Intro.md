@@ -29,3 +29,20 @@ Vin in 0 PULSE(0 1.8 0ns 0.1ns 0.1ns 5ns 10ns)
 .tran 0.1ns 20ns
 .end
 ```
+# Technology File
+## 📘 What is a Technology File?
+
+A technology file defines the process-specific parameters of a semiconductor technology used for simulation, synthesis, and layout.
+It acts as a bridge between design and fabrication, providing all the electrical, physical, and material details required by SPICE or layout tools.
+## Key Information in a Technology File
+| Parameter Type         | Description                                                                                                 |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Layer Definitions**  | Defines each mask layer (e.g., poly, metal1, via1) and its properties.                                      |
+| **Design Rules**       | Specifies minimum width, spacing, overlap, enclosure, etc.                                                  |
+| **Device Parameters**  | Provides NMOS/PMOS model parameters like threshold voltage (Vth), mobility (µ), oxide thickness (tox), etc. |
+| **RC Extraction Data** | Defines resistance and capacitance per unit length or area for interconnects.                               |
+| **SPICE Models**       | Includes `.model` or `.lib` statements for transistor-level simulation.                                     |
+| **Process Corners**    | Includes variations (TT, SS, FF) to simulate manufacturing conditions.                                      |
+
+<img width="3011" height="1469" alt="image" src="https://github.com/user-attachments/assets/f4bbcde7-bd4e-4c77-9a5c-21d47230dc43" />
+
