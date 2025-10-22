@@ -1,3 +1,6 @@
+## 📚 Reference  
+- Mahajan, Ankit. *Floorplanning & Design*. LinkedIn Pulse. [https://www.linkedin.com/pulse/floorplanning-design-ankit-mahajan/](https://www.linkedin.com/pulse/floorplanning-design-ankit-mahajan/)  
+
 #  Floorplanning in OpenROAD
 
 ##  What is Floorplanning?
